@@ -2,6 +2,8 @@
 
 An Angular filter that takes a long string and formats it to a more human friendly format (in chunks and lines).
 
+** Requires underscore **
+
 E.g. turn this string:
 
     2d8e9fbba8fa80ffa9085f2280f1808fa9085f2008fa90b60affb8a8fa80afa908ffaa08fa818fc808ffb80af1b08fa91f208cfa809f2e8df1a0480a8089a06047e828fb808f488c
